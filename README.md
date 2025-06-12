@@ -7,4 +7,4 @@
    ![Iann Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=iannlucasz&show_icons=true&theme=dark)
  
 
-Um garoto com um sonho de ser um desenvolvedor web.
+Um garoto com um sonho de ser um desenvolvedor backend.

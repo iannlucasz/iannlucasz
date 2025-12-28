@@ -14,7 +14,7 @@ Focused on **clean code**, **APIs**, and **scalable system foundations**.
   <a href="https://github.com/iannlucasz">
     <img src="https://img.shields.io/badge/GitHub-iannlucasz-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://instagram.com/oreidosites">
+  <a href="https://instagram.com/iannzin30">
     <img src="https://img.shields.io/badge/Instagram-@iannzin30-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>

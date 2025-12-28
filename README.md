@@ -34,13 +34,14 @@ Focused on **clean code**, **APIs**, and **scalable system foundations**.
 - 🎓 Learning and sharing software development
 
 ---
-## 📊 GitHub Stats
+## 📊 GitHub Overview
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iannlucasz&theme=dark)
 
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=iannlucasz&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iannlucasz&layout=compact&theme=tokyonight" />
-</p>
+## 🧠 Most Used Languages
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iannlucasz&theme=dark)
 
+## 🔥 Contribution Stats
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iannlucasz&theme=dark)
 ---
 
 ## 🚀 Philosophy
